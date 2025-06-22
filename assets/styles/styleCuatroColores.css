@@ -1,0 +1,17 @@
+#key{
+    display:flex;
+    justify-content: space-around;
+    gap:10px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: solid 2px black;
+}
+#section{
+    display: flex;
+     gap:10px;
+}
+#reset_4{
+    margin-top: 10px;
+    padding:5px;
+}
