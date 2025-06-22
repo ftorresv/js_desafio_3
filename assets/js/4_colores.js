@@ -8,10 +8,10 @@ const reset_4=document.querySelector("#reset_4");
 
 function fondo(elemento){
 elemento.style.backgroundColor="black";
+elemento.style.color= "white";
 }
 div_1.addEventListener("click", function(){
     fondo(this);
-    div_1.style.color="white";
 } );
 div_2.addEventListener("click", function(){
     fondo(this);
